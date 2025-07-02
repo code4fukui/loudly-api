@@ -1,8 +1,14 @@
 <!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><link rel="icon" href="data:">
 <title>open house music 10</title>
 </head><body>
+
 <h1>open house music 10</h1>
 <button id=btn>play</button>
+<hr>
+API: <a href=https://www.loudly.com/music-api>Music API | Loudly</a><br>
+<a href=https://github.com/code4fukui/loudly-api/>src on GitHub</a><br>
+
+
 <script type="module">
 import { playBGMs } from "https://code4fukui.github.io/cafe-bgm-opendata/bgm.js"
 
@@ -15,9 +21,60 @@ btn.onclick = () => playBGMs(bgms);
 
 </script>
 
-<hr>
-API: <a href=https://www.loudly.com/music-api>Music API | Loudly</a><br>
-<a href=https://github.com/code4fukui/loudly-api/>src on GitHub</a><br>
+<style>
+  body {
+    background: #111;
+    color: #fff;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+  }
+
+  h1 {
+    font-size: 2em;
+    letter-spacing: 0.1em;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+  }
+
+  button#btn {
+    background: #0ff;
+    border: none;
+    color: #111;
+    padding: 15px 30px;
+    font-size: 1em;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-radius: 50px;
+    transition: background 0.3s, transform 0.1s;
+  }
+
+  button#btn:hover {
+    background: #0cc;
+  }
+
+  button#btn:active {
+    transform: scale(0.98);
+  }
+
+  hr {
+    border: 0;
+    height: 1px;
+    background: #444;
+    margin: 40px auto;
+    width: 50%;
+  }
+
+  a {
+    color: #0ff;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+</style>
 
 </body></html>
 
