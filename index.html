@@ -1,0 +1,23 @@
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><link rel="icon" href="data:">
+<title>open house music 10</title>
+</head><body>
+<h1>open house music 10</h1>
+<button id=btn>play</button>
+<script type="module">
+import { playBGMs } from "https://code4fukui.github.io/cafe-bgm-opendata/bgm.js"
+
+const bgms = [];
+for (let i = 0; i < 10; i++) {
+  bgms.push("music/House-0" + i + ".mp3");
+}
+
+btn.onclick = () => playBGMs(bgms);
+
+</script>
+
+<hr>
+API: <a href=https://www.loudly.com/music-api>Music API | Loudly</a><br>
+<a href=https://github.com/code4fukui/loudly-api/>src on GitHub</a><br>
+
+</body></html>
+
