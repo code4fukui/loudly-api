@@ -1,0 +1,1815 @@
+[
+  {
+    "id": 0,
+    "name": "Ambient",
+    "description": "These tracks create a cinematic and ethereal soundscape, often featuring ambient sounds and textures that evoke a sense of vastness and introspection.",
+    "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/m_g_ambient_rev.png",
+    "instruments": [
+      "DRUMS",
+      "SYNTH",
+      "FX",
+      "GUITAR",
+      "KEYS",
+      "BASS",
+      "PERCUSSION",
+      "TONAL PERCUSSION",
+      "SAMPLES",
+      "VOCALS",
+      "STRINGS"
+    ],
+    "bpm": {
+      "low": 70,
+      "high": 90
+    },
+    "suggested_instruments": [
+      "BASS",
+      "SYNTH",
+      "SYNTH",
+      "SYNTH",
+      "SYNTH"
+    ],
+    "micro_genres": [
+      {
+        "id": 0,
+        "name": "Cinematic Atmospheres",
+        "description": "These tracks create a cinematic and ethereal soundscape, often featuring ambient sounds and textures that evoke a sense of vastness and introspection.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/m_g_ambient_rev.png",
+        "instruments": [
+          "DRUMS",
+          "SYNTH",
+          "FX",
+          "GUITAR",
+          "KEYS",
+          "BASS",
+          "PERCUSSION",
+          "TONAL PERCUSSION",
+          "SAMPLES",
+          "STRINGS"
+        ],
+        "bpm": {
+          "low": 70,
+          "high": 90
+        },
+        "suggested_instruments": [
+          "FX",
+          "BASS",
+          "SYNTH",
+          "FX",
+          "SYNTH"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Cinematic",
+        "description": "These tracks create a cinematic and ethereal soundscape, often featuring ambient sounds and textures that evoke a sense of vastness and introspection.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/m_g_ambient_rev.png",
+        "instruments": [
+          "DRUMS",
+          "SYNTH",
+          "FX",
+          "GUITAR",
+          "KEYS",
+          "BASS",
+          "PERCUSSION",
+          "SAMPLES",
+          "STRINGS"
+        ],
+        "bpm": {
+          "low": 70,
+          "high": 90
+        },
+        "suggested_instruments": [
+          "STRINGS",
+          "KEYS",
+          "BASS",
+          "SYNTH",
+          "FX",
+          "SAMPLES"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Dark Synth",
+        "description": "These tracks create a cinematic and ethereal soundscape, often featuring ambient sounds and textures that evoke a sense of vastness and introspection.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/m_g_ambient_rev.png",
+        "instruments": [
+          "DRUMS",
+          "SYNTH",
+          "FX",
+          "GUITAR",
+          "KEYS",
+          "BASS",
+          "PERCUSSION",
+          "TONAL PERCUSSION",
+          "SAMPLES",
+          "STRINGS"
+        ],
+        "bpm": {
+          "low": 70,
+          "high": 90
+        },
+        "suggested_instruments": [
+          "BASS",
+          "SYNTH",
+          "SYNTH",
+          "SYNTH",
+          "SYNTH"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Drum 'n' Bass",
+    "description": "These tracks are characterized by their fast-paced breakbeats and heavy basslines, often incorporating electronic sounds and samples, and designed to get people dancing in a high-energy atmosphere.",
+    "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_dnb.png",
+    "instruments": [
+      "DRUMS",
+      "SYNTH",
+      "FX",
+      "BASS",
+      "PERCUSSION",
+      "KEYS",
+      "VOCALS"
+    ],
+    "bpm": {
+      "low": 165,
+      "high": 185
+    },
+    "suggested_instruments": [
+      "DRUMS",
+      "BASS",
+      "SYNTH",
+      "PERCUSSION"
+    ],
+    "micro_genres": [
+      {
+        "id": 0,
+        "name": "Liquid Drum 'n' Bass",
+        "description": "These tracks are characterized by their fast-paced breakbeats and heavy basslines, often incorporating electronic sounds and samples, and designed to get people dancing in a high-energy atmosphere.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_dnb.png",
+        "instruments": [
+          "DRUMS",
+          "SYNTH",
+          "FX",
+          "BASS",
+          "PERCUSSION",
+          "KEYS",
+          "VOCALS"
+        ],
+        "bpm": {
+          "low": 165,
+          "high": 185
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "SYNTH",
+          "PERCUSSION"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Neurofunk",
+        "description": "These tracks are characterized by their fast-paced breakbeats and heavy basslines, often incorporating electronic sounds and samples, and designed to get people dancing in a high-energy atmosphere.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_dnb.png",
+        "instruments": [
+          "DRUMS",
+          "SYNTH",
+          "FX",
+          "BASS",
+          "PERCUSSION",
+          "KEYS",
+          "VOCALS"
+        ],
+        "bpm": {
+          "low": 165,
+          "high": 185
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "SYNTH",
+          "SYNTH",
+          "PERCUSSION"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Dark Drum 'n' Bass",
+        "description": "These tracks are characterized by their fast-paced breakbeats and heavy basslines, often incorporating electronic sounds and samples, and designed to get people dancing in a high-energy atmosphere.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_dnb.png",
+        "instruments": [
+          "DRUMS",
+          "SYNTH",
+          "FX",
+          "BASS",
+          "PERCUSSION",
+          "KEYS",
+          "VOCALS"
+        ],
+        "bpm": {
+          "low": 165,
+          "high": 185
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "SYNTH",
+          "SYNTH",
+          "PERCUSSION"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "EDM",
+    "description": "These tracks are high-energy and upbeat, characterized by their use of electronic instrumentation and designed to get people dancing in the club or at a festival.",
+    "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_edm.png",
+    "instruments": [
+      "DRUMS",
+      "SYNTH",
+      "BASS",
+      "KEYS",
+      "VOCALS",
+      "FX",
+      "STRINGS",
+      "PERCUSSION"
+    ],
+    "bpm": {
+      "low": 115,
+      "high": 130
+    },
+    "suggested_instruments": [
+      "DRUMS",
+      "BASS",
+      "PERCUSSION",
+      "KEYS",
+      "SYNTH"
+    ],
+    "micro_genres": [
+      {
+        "id": 0,
+        "name": "Future Bass",
+        "description": "These tracks are high-energy and upbeat, characterized by their use of electronic instrumentation and designed to get people dancing in the club or at a festival.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_edm.png",
+        "instruments": [
+          "DRUMS",
+          "SYNTH",
+          "BASS",
+          "KEYS",
+          "VOCALS",
+          "FX",
+          "STRINGS",
+          "PERCUSSION"
+        ],
+        "bpm": {
+          "low": 115,
+          "high": 130
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "PERCUSSION",
+          "KEYS",
+          "SYNTH",
+          "STRINGS"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Chill EDM",
+        "description": "These tracks are high-energy and upbeat, characterized by their use of electronic instrumentation and designed to get people dancing in the club or at a festival.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_edm.png",
+        "instruments": [
+          "DRUMS",
+          "SYNTH",
+          "BASS",
+          "KEYS",
+          "VOCALS",
+          "FX",
+          "STRINGS",
+          "PERCUSSION"
+        ],
+        "bpm": {
+          "low": 115,
+          "high": 130
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "PERCUSSION",
+          "KEYS",
+          "SYNTH",
+          "STRINGS"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "House Pop",
+        "description": "These tracks are high-energy and upbeat, characterized by their use of electronic instrumentation and designed to get people dancing in the club or at a festival.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_edm.png",
+        "instruments": [
+          "DRUMS",
+          "SYNTH",
+          "BASS",
+          "KEYS",
+          "VOCALS",
+          "FX",
+          "STRINGS",
+          "PERCUSSION"
+        ],
+        "bpm": {
+          "low": 115,
+          "high": 130
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "PERCUSSION",
+          "KEYS",
+          "SYNTH"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Epic Score",
+    "description": "These tracks are grandiose and cinematic in nature, featuring orchestral sounds in a powerful and epic score designed to accompany movies or video games.",
+    "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_epic_score.png",
+    "instruments": [
+      "DRUMS",
+      "BRASS WOODWIND",
+      "STRINGS",
+      "PERCUSSION",
+      "KEYS",
+      "FX",
+      "SYNTH",
+      "BASS",
+      "VOCALS",
+      "GUITAR",
+      "TONAL PERCUSSION"
+    ],
+    "bpm": {
+      "low": 80,
+      "high": 100
+    },
+    "suggested_instruments": [
+      "DRUMS",
+      "BASS",
+      "SYNTH",
+      "PERCUSSION",
+      "STRINGS",
+      "STRINGS"
+    ],
+    "micro_genres": [
+      {
+        "id": 0,
+        "name": "Action Tension Score",
+        "description": "These tracks are grandiose and cinematic in nature, featuring orchestral sounds in a powerful and epic score designed to accompany movies or video games.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_epic_score.png",
+        "instruments": [
+          "DRUMS",
+          "BRASS WOODWIND",
+          "STRINGS",
+          "PERCUSSION",
+          "KEYS",
+          "FX",
+          "SYNTH",
+          "BASS",
+          "VOCALS",
+          "TONAL PERCUSSION"
+        ],
+        "bpm": {
+          "low": 80,
+          "high": 100
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "STRINGS",
+          "SYNTH",
+          "PERCUSSION"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Epic Fantasy",
+        "description": "These tracks are grandiose and cinematic in nature, featuring orchestral sounds in a powerful and epic score designed to accompany movies or video games.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_epic_score.png",
+        "instruments": [
+          "DRUMS",
+          "BRASS WOODWIND",
+          "STRINGS",
+          "PERCUSSION",
+          "KEYS",
+          "FX",
+          "SYNTH",
+          "GUITAR",
+          "BASS",
+          "VOCALS",
+          "TONAL PERCUSSION"
+        ],
+        "bpm": {
+          "low": 80,
+          "high": 100
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "STRINGS",
+          "STRINGS",
+          "PERCUSSION"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Low Pace Score",
+        "description": "These tracks are grandiose and cinematic in nature, featuring orchestral sounds in a powerful and epic score designed to accompany movies or video games.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_epic_score.png",
+        "instruments": [
+          "BASS",
+          "SYNTH",
+          "KEYS",
+          "DRUMS",
+          "TONAL PERCUSSION",
+          "STRINGS",
+          "BRASS WOODWIND"
+        ],
+        "bpm": {
+          "low": 80,
+          "high": 100
+        },
+        "suggested_instruments": [
+          "KEYS",
+          "STRINGS"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Hip Hop",
+    "description": "These tracks are characterized by their use of samples from funk, soul, and jazz records, often chopped and rearranged to create new melodies and rhythms.",
+    "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_hiphop_no_trap.png",
+    "instruments": [
+      "DRUMS",
+      "SYNTH",
+      "BASS",
+      "KEYS",
+      "GUITAR",
+      "VOCALS",
+      "FX",
+      "STRINGS",
+      "BRASS WOODWIND",
+      "PERCUSSION",
+      "TONAL PERCUSSION"
+    ],
+    "bpm": {
+      "low": 80,
+      "high": 95
+    },
+    "suggested_instruments": [
+      "DRUMS",
+      "BASS",
+      "SYNTH",
+      "KEYS",
+      "STRINGS",
+      "PERCUSSION"
+    ],
+    "micro_genres": [
+      {
+        "id": 0,
+        "name": "Alternative Hip Hop",
+        "description": "These tracks are characterized by their use of samples from funk, soul, and jazz records, often chopped and rearranged to create new melodies and rhythms.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_hiphop_no_trap.png",
+        "instruments": [
+          "DRUMS",
+          "SYNTH",
+          "BASS",
+          "KEYS",
+          "GUITAR",
+          "VOCALS",
+          "FX",
+          "STRINGS",
+          "BRASS WOODWIND",
+          "PERCUSSION",
+          "TONAL PERCUSSION"
+        ],
+        "bpm": {
+          "low": 80,
+          "high": 95
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "TONAL PERCUSSION",
+          "BRASS WOODWIND"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "East Coast Hip Hop",
+        "description": "These tracks are characterized by their use of samples from funk, soul, and jazz records, often chopped and rearranged to create new melodies and rhythms.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_hiphop_no_trap.png",
+        "instruments": [
+          "DRUMS",
+          "SYNTH",
+          "BASS",
+          "KEYS",
+          "GUITAR",
+          "VOCALS",
+          "FX",
+          "STRINGS",
+          "BRASS WOODWIND",
+          "PERCUSSION"
+        ],
+        "bpm": {
+          "low": 80,
+          "high": 95
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "BRASS WOODWIND"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Hip Pop",
+        "description": "These tracks are characterized by their use of samples from funk, soul, and jazz records, often chopped and rearranged to create new melodies and rhythms.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_hiphop_no_trap.png",
+        "instruments": [
+          "DRUMS",
+          "SYNTH",
+          "BASS",
+          "KEYS",
+          "GUITAR",
+          "VOCALS",
+          "FX",
+          "STRINGS",
+          "PERCUSSION"
+        ],
+        "bpm": {
+          "low": 80,
+          "high": 95
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "SYNTH",
+          "GUITAR",
+          "STRINGS",
+          "PERCUSSION"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "House",
+    "description": "These tracks are characterized by their repetitive 4/4 beat and use of synthesizers and samples, often associated with the club and rave scenes, and designed to get people dancing.",
+    "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_house.png",
+    "instruments": [
+      "DRUMS",
+      "SYNTH",
+      "PERCUSSION",
+      "BASS",
+      "FX",
+      "KEYS",
+      "VOCALS",
+      "TONAL PERCUSSION",
+      "GUITAR"
+    ],
+    "bpm": {
+      "low": 120,
+      "high": 130
+    },
+    "suggested_instruments": [
+      "DRUMS",
+      "BASS",
+      "KEYS",
+      "SYNTH",
+      "PERCUSSION"
+    ],
+    "micro_genres": [
+      {
+        "id": 0,
+        "name": "Afro House",
+        "description": "These tracks are characterized by their repetitive 4/4 beat and use of synthesizers and samples, often associated with the club and rave scenes, and designed to get people dancing.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_house.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "PERCUSSION",
+          "TONAL PERCUSSION",
+          "STRINGS",
+          "BRASS WOODWIND",
+          "FX",
+          "VOCALS"
+        ],
+        "bpm": {
+          "low": 120,
+          "high": 130
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "PERCUSSION",
+          "PERCUSSION",
+          "KEYS",
+          "SYNTH",
+          "STRINGS"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Deep House",
+        "description": "These tracks are characterized by their repetitive 4/4 beat and use of synthesizers and samples, often associated with the club and rave scenes, and designed to get people dancing.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_house.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "STRINGS",
+          "PERCUSSION",
+          "FX",
+          "VOCALS"
+        ],
+        "bpm": {
+          "low": 120,
+          "high": 130
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "PERCUSSION",
+          "KEYS",
+          "SYNTH",
+          "STRINGS"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Soulful House",
+        "description": "These tracks are characterized by their repetitive 4/4 beat and use of synthesizers and samples, often associated with the club and rave scenes, and designed to get people dancing.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_house.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "STRINGS",
+          "PERCUSSION",
+          "BRASS WOODWIND",
+          "FX",
+          "VOCALS"
+        ],
+        "bpm": {
+          "low": 120,
+          "high": 130
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "PERCUSSION",
+          "FX",
+          "KEYS",
+          "SYNTH",
+          "STRINGS"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Melodic House",
+        "description": "These tracks are characterized by their repetitive 4/4 beat and use of synthesizers and samples, often associated with the club and rave scenes, and designed to get people dancing.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_house.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "STRINGS",
+          "PERCUSSION",
+          "BRASS WOODWIND",
+          "FX",
+          "VOCALS"
+        ],
+        "bpm": {
+          "low": 120,
+          "high": 130
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "PERCUSSION",
+          "SYNTH"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Tech House",
+        "description": "These tracks are characterized by their repetitive 4/4 beat and use of synthesizers and samples, often associated with the club and rave scenes, and designed to get people dancing.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_house.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "PERCUSSION",
+          "FX"
+        ],
+        "bpm": {
+          "low": 120,
+          "high": 130
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "PERCUSSION",
+          "SYNTH",
+          "SYNTH"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Lo Fi",
+    "description": "These tracks feature a combination of lo-fi and neo soul elements, often incorporating jazzy and soulful samples with a modern twist, creating a relaxed and intimate atmosphere.",
+    "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/m_g_lofi_rev.png",
+    "instruments": [
+      "DRUMS",
+      "BASS",
+      "SYNTH",
+      "KEYS",
+      "PERCUSSION",
+      "GUITAR",
+      "FX",
+      "SAMPLES",
+      "STRINGS",
+      "BRASS WOODWIND",
+      "VOCALS"
+    ],
+    "bpm": {
+      "low": 75,
+      "high": 100
+    },
+    "suggested_instruments": [
+      "DRUMS",
+      "BASS",
+      "KEYS",
+      "GUITAR",
+      "STRINGS",
+      "PERCUSSION"
+    ],
+    "micro_genres": [
+      {
+        "id": 0,
+        "name": "Lo Fi Study Beats",
+        "description": "These tracks feature a combination of lo-fi and neo soul elements, often incorporating jazzy and soulful samples with a modern twist, creating a relaxed and intimate atmosphere.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/m_g_lofi_rev.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "GUITAR",
+          "PERCUSSION",
+          "STRINGS",
+          "SAMPLES",
+          "BRASS WOODWIND",
+          "FX",
+          "VOCALS"
+        ],
+        "bpm": {
+          "low": 75,
+          "high": 100
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SAMPLES"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Chillhop",
+        "description": "These tracks feature a combination of lo-fi and neo soul elements, often incorporating jazzy and soulful samples with a modern twist, creating a relaxed and intimate atmosphere.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/m_g_lofi_rev.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "GUITAR",
+          "STRINGS",
+          "PERCUSSION",
+          "TONAL PERCUSSION",
+          "BRASS WOODWIND",
+          "SAMPLES",
+          "FX",
+          "VOCALS"
+        ],
+        "bpm": {
+          "low": 75,
+          "high": 100
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Neosoul",
+        "description": "These tracks feature a combination of lo-fi and neo soul elements, often incorporating jazzy and soulful samples with a modern twist, creating a relaxed and intimate atmosphere.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/m_g_lofi_rev.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "GUITAR",
+          "STRINGS",
+          "PERCUSSION",
+          "TONAL PERCUSSION",
+          "BRASS WOODWIND",
+          "SAMPLES",
+          "FX",
+          "VOCALS"
+        ],
+        "bpm": {
+          "low": 75,
+          "high": 100
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Electro Chill",
+        "description": "These tracks feature a combination of lo-fi and neo soul elements, often incorporating jazzy and soulful samples with a modern twist, creating a relaxed and intimate atmosphere.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/m_g_lofi_rev.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "GUITAR",
+          "STRINGS",
+          "PERCUSSION",
+          "TONAL PERCUSSION",
+          "BRASS WOODWIND",
+          "SAMPLES",
+          "FX",
+          "VOCALS"
+        ],
+        "bpm": {
+          "low": 75,
+          "high": 100
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "SYNTH",
+          "SAMPLES",
+          "PERCUSSION"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Reggaeton",
+    "description": "These tracks feature Latin rhythms and influences, often incorporating reggae and hip hop elements, creating a danceable and energetic atmosphere.",
+    "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_reggaeton.png",
+    "instruments": [
+      "DRUMS",
+      "SYNTH",
+      "PERCUSSION",
+      "BASS",
+      "VOCALS",
+      "FX",
+      "KEYS",
+      "GUITAR",
+      "TONAL PERCUSSION"
+    ],
+    "bpm": {
+      "low": 90,
+      "high": 110
+    },
+    "suggested_instruments": [
+      "DRUMS",
+      "BASS",
+      "SYNTH",
+      "KEYS",
+      "PERCUSSION"
+    ],
+    "micro_genres": [
+      {
+        "id": 0,
+        "name": "Moombahton",
+        "description": "These tracks feature Latin rhythms and influences, often incorporating reggae and hip hop elements, creating a danceable and energetic atmosphere.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_reggaeton.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "PERCUSSION",
+          "FX"
+        ],
+        "bpm": {
+          "low": 90,
+          "high": 110
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "SYNTH",
+          "KEYS",
+          "PERCUSSION"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Urban Raggaeton",
+        "description": "These tracks feature Latin rhythms and influences, often incorporating reggae and hip hop elements, creating a danceable and energetic atmosphere.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_reggaeton.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "GUITAR",
+          "PERCUSSION",
+          "VOCALS",
+          "FX"
+        ],
+        "bpm": {
+          "low": 90,
+          "high": 110
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "SYNTH",
+          "KEYS",
+          "PERCUSSION"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Alternative Reggaeton",
+        "description": "These tracks feature Latin rhythms and influences, often incorporating reggae and hip hop elements, creating a danceable and energetic atmosphere.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_reggaeton.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "STRINGS",
+          "PERCUSSION",
+          "SAMPLES",
+          "VOCALS",
+          "FX"
+        ],
+        "bpm": {
+          "low": 90,
+          "high": 110
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "SYNTH",
+          "SYNTH",
+          "PERCUSSION",
+          "FX"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Synthwave",
+    "description": "These tracks feature retro synthesizer sounds and a nostalgic, futuristic aesthetic, creating a unique and dreamy atmosphere reminiscent of 1980s pop culture.",
+    "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_synthwave.png",
+    "instruments": [
+      "SYNTH",
+      "DRUMS",
+      "BASS",
+      "FX"
+    ],
+    "bpm": {
+      "low": 80,
+      "high": 115
+    },
+    "suggested_instruments": [
+      "DRUMS",
+      "BASS",
+      "SYNTH",
+      "SYNTH",
+      "SYNTH"
+    ],
+    "micro_genres": [
+      {
+        "id": 0,
+        "name": "Chillwave",
+        "description": "These tracks feature retro synthesizer sounds and a nostalgic, futuristic aesthetic, creating a unique and dreamy atmosphere reminiscent of 1980s pop culture.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_synthwave.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "STRINGS",
+          "PERCUSSION",
+          "SAMPLES",
+          "FX"
+        ],
+        "bpm": {
+          "low": 80,
+          "high": 115
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Outrun",
+        "description": "These tracks feature retro synthesizer sounds and a nostalgic, futuristic aesthetic, creating a unique and dreamy atmosphere reminiscent of 1980s pop culture.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_synthwave.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "STRINGS",
+          "PERCUSSION",
+          "TONAL PERCUSSION",
+          "SAMPLES",
+          "VOCALS",
+          "FX"
+        ],
+        "bpm": {
+          "low": 80,
+          "high": 115
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "PERCUSSION",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "STRINGS"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Electronic Body Music",
+        "description": "These tracks feature retro synthesizer sounds and a nostalgic, futuristic aesthetic, creating a unique and dreamy atmosphere reminiscent of 1980s pop culture.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_synthwave.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "STRINGS",
+          "PERCUSSION",
+          "FX"
+        ],
+        "bpm": {
+          "low": 80,
+          "high": 115
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "SYNTH",
+          "SYNTH"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Darkwave",
+        "description": "These tracks feature retro synthesizer sounds and a nostalgic, futuristic aesthetic, creating a unique and dreamy atmosphere reminiscent of 1980s pop culture.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_synthwave.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "STRINGS",
+          "PERCUSSION",
+          "TONAL PERCUSSION",
+          "SAMPLES",
+          "VOCALS",
+          "FX"
+        ],
+        "bpm": {
+          "low": 80,
+          "high": 115
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "SYNTH",
+          "SYNTH"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Techno",
+    "description": "These tracks are characterized by their repetitive beats and use of techno sounds and samples, often associated with the underground club scene and designed to get people moving.",
+    "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_techno.png",
+    "instruments": [
+      "DRUMS",
+      "PERCUSSION",
+      "SYNTH",
+      "FX",
+      "BASS",
+      "VOCALS",
+      "KEYS"
+    ],
+    "bpm": {
+      "low": 120,
+      "high": 135
+    },
+    "suggested_instruments": [
+      "DRUMS",
+      "BASS",
+      "SYNTH",
+      "SYNTH",
+      "SYNTH"
+    ],
+    "micro_genres": [
+      {
+        "id": 0,
+        "name": "Trance",
+        "description": "These tracks are characterized by their repetitive beats and use of techno sounds and samples, often associated with the underground club scene and designed to get people moving.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_techno.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "PERCUSSION",
+          "VOCALS",
+          "FX"
+        ],
+        "bpm": {
+          "low": 120,
+          "high": 135
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "PERCUSSION",
+          "SYNTH",
+          "SYNTH",
+          "FX"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Melodic Techno",
+        "description": "These tracks are characterized by their repetitive beats and use of techno sounds and samples, often associated with the underground club scene and designed to get people moving.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_techno.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "GUITAR",
+          "PERCUSSION",
+          "BRASS WOODWIND",
+          "SAMPLES",
+          "VOCALS",
+          "FX"
+        ],
+        "bpm": {
+          "low": 120,
+          "high": 135
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "PERCUSSION",
+          "SYNTH",
+          "SYNTH"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Techno House",
+        "description": "These tracks are characterized by their repetitive beats and use of techno sounds and samples, often associated with the underground club scene and designed to get people moving.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_techno.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "PERCUSSION",
+          "BRASS WOODWIND",
+          "SAMPLES",
+          "VOCALS",
+          "FX"
+        ],
+        "bpm": {
+          "low": 120,
+          "high": 135
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "PERCUSSION",
+          "SYNTH",
+          "SYNTH"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Minimal Techno",
+        "description": "These tracks are characterized by their repetitive beats and use of techno sounds and samples, often associated with the underground club scene and designed to get people moving.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_techno.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "PERCUSSION",
+          "SAMPLES",
+          "FX"
+        ],
+        "bpm": {
+          "low": 120,
+          "high": 135
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "SYNTH",
+          "PERCUSSION"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Trap Double Tempo",
+    "description": "These tracks are characterized by their fast-paced, heavy-hitting beats and aggressive lyrics, featuring rapid hi-hat patterns and heavy basslines in a double tempo, typical of trap music.",
+    "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_trap_double.png",
+    "instruments": [
+      "DRUMS",
+      "SYNTH",
+      "BASS",
+      "KEYS",
+      "VOCALS",
+      "FX",
+      "GUITAR",
+      "PERCUSSION",
+      "SAMPLES",
+      "STRINGS",
+      "BRASS WOODWIND",
+      "TONAL PERCUSSION"
+    ],
+    "bpm": {
+      "low": 120,
+      "high": 160
+    },
+    "suggested_instruments": [
+      "DRUMS",
+      "BASS",
+      "KEYS",
+      "STRINGS",
+      "SYNTH",
+      "PERCUSSION"
+    ],
+    "micro_genres": [
+      {
+        "id": 0,
+        "name": "Dark Trap Double Tempo",
+        "description": "These tracks are characterized by their fast-paced, heavy-hitting beats and aggressive lyrics, featuring rapid hi-hat patterns and heavy basslines in a double tempo, typical of trap music.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_trap_double.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "STRINGS",
+          "PERCUSSION",
+          "TONAL PERCUSSION",
+          "VOCALS"
+        ],
+        "bpm": {
+          "low": 120,
+          "high": 160
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "SYNTH",
+          "KEYS"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Electro Trap Double Tempo",
+        "description": "These tracks are characterized by their fast-paced, heavy-hitting beats and aggressive lyrics, featuring rapid hi-hat patterns and heavy basslines in a double tempo, typical of trap music.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_trap_double.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "PERCUSSION",
+          "BRASS WOODWIND",
+          "VOCALS"
+        ],
+        "bpm": {
+          "low": 120,
+          "high": 160
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "SYNTH",
+          "KEYS"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Pop Trap Double Tempo",
+        "description": "These tracks are characterized by their fast-paced, heavy-hitting beats and aggressive lyrics, featuring rapid hi-hat patterns and heavy basslines in a double tempo, typical of trap music.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_trap_double.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "TONAL PERCUSSION",
+          "VOCALS"
+        ],
+        "bpm": {
+          "low": 120,
+          "high": 160
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "SYNTH",
+          "KEYS"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Drill",
+        "description": "These tracks are characterized by their fast-paced, heavy-hitting beats and aggressive lyrics, featuring rapid hi-hat patterns and heavy basslines in a double tempo, typical of trap music.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_trap_double.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "TONAL PERCUSSION",
+          "VOCALS"
+        ],
+        "bpm": {
+          "low": 120,
+          "high": 160
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "SYNTH",
+          "KEYS"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Trap Half Tempo",
+    "description": "These tracks are a slower variant of trap music, featuring heavy basslines and atmospheric beats in a half tempo, that creates a more laid-back atmosphere.",
+    "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_trap_half.png",
+    "instruments": [
+      "DRUMS",
+      "SYNTH",
+      "BASS",
+      "VOCALS",
+      "KEYS",
+      "FX",
+      "TONAL PERCUSSION",
+      "BRASS WOODWIND",
+      "PERCUSSION"
+    ],
+    "bpm": {
+      "low": 60,
+      "high": 90
+    },
+    "suggested_instruments": [
+      "DRUMS",
+      "BASS",
+      "PERCUSSION",
+      "SYNTH"
+    ],
+    "micro_genres": [
+      {
+        "id": 0,
+        "name": "Dark Trap Half Tempo",
+        "description": "These tracks are a slower variant of trap music, featuring heavy basslines and atmospheric beats in a half tempo, that creates a more laid-back atmosphere.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_trap_half.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "STRINGS",
+          "PERCUSSION",
+          "TONAL PERCUSSION",
+          "VOCALS"
+        ],
+        "bpm": {
+          "low": 60,
+          "high": 90
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "SYNTH",
+          "KEYS"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Electro Trap Half Tempo",
+        "description": "These tracks are a slower variant of trap music, featuring heavy basslines and atmospheric beats in a half tempo, that creates a more laid-back atmosphere.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_trap_half.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "PERCUSSION",
+          "BRASS WOODWIND",
+          "VOCALS"
+        ],
+        "bpm": {
+          "low": 60,
+          "high": 90
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "SYNTH",
+          "KEYS"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Pop Trap Half Tempo",
+        "description": "These tracks are a slower variant of trap music, featuring heavy basslines and atmospheric beats in a half tempo, that creates a more laid-back atmosphere.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_trap_half.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "TONAL PERCUSSION",
+          "VOCALS"
+        ],
+        "bpm": {
+          "low": 60,
+          "high": 90
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "SYNTH",
+          "KEYS"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Downtempo",
+    "description": "Electronica downtempo music is characterized by its soothing, slower-paced compositions, featuring intricate electronic textures and hypnotic beats that transport you to a tranquil sonic landscape.",
+    "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/m_g_downtempo_rev1.png",
+    "instruments": [
+      "DRUMS",
+      "SYNTH",
+      "BASS",
+      "GUITAR",
+      "VOCALS",
+      "KEYS",
+      "FX",
+      "TONAL PERCUSSION",
+      "BRASS WOODWIND",
+      "PERCUSSION"
+    ],
+    "bpm": {
+      "low": 105,
+      "high": 115
+    },
+    "suggested_instruments": [
+      "DRUMS",
+      "BASS",
+      "KEYS",
+      "SYNTH",
+      "PERCUSSION",
+      "VOCALS"
+    ],
+    "micro_genres": [
+      {
+        "id": 0,
+        "name": "Electro Dub",
+        "description": "Electronica downtempo music is characterized by its soothing, slower-paced compositions, featuring intricate electronic textures and hypnotic beats that transport you to a tranquil sonic landscape.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/m_g_downtempo_rev1.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "GUITAR",
+          "STRINGS",
+          "PERCUSSION",
+          "SAMPLES"
+        ],
+        "bpm": {
+          "low": 105,
+          "high": 115
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "PERCUSSION",
+          "SAMPLES"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Electronica",
+        "description": "Electronica downtempo music is characterized by its soothing, slower-paced compositions, featuring intricate electronic textures and hypnotic beats that transport you to a tranquil sonic landscape.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/m_g_downtempo_rev1.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "GUITAR",
+          "STRINGS",
+          "PERCUSSION",
+          "SAMPLES",
+          "BRASS WOODWIND",
+          "VOCALS"
+        ],
+        "bpm": {
+          "low": 105,
+          "high": 115
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "PERCUSSION",
+          "VOCALS"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Trip Hop",
+        "description": "Electronica downtempo music is characterized by its soothing, slower-paced compositions, featuring intricate electronic textures and hypnotic beats that transport you to a tranquil sonic landscape.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/m_g_downtempo_rev1.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "GUITAR",
+          "STRINGS",
+          "PERCUSSION",
+          "TONAL PERCUSSION",
+          "SAMPLES",
+          "VOCALS"
+        ],
+        "bpm": {
+          "low": 105,
+          "high": 115
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "PERCUSSION",
+          "VOCALS"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Rock",
+    "description": "Featuring dynamic guitar riffs and powerful drum beats. From slow rock ballads to high-energy anthems, these tracks blend classic and modern styles, capturing the full spectrum of rock 'n' roll for every mood and moment.",
+    "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_rock.png",
+    "instruments": [
+      "DRUMS",
+      "BASS",
+      "KEYS",
+      "SYNTH",
+      "GUITAR",
+      "STRINGS",
+      "VOCALS",
+      "PERCUSSION",
+      "BRASS WOODWIND",
+      "FX"
+    ],
+    "bpm": {
+      "low": 120,
+      "high": 140
+    },
+    "suggested_instruments": [
+      "DRUMS",
+      "PERCUSSION",
+      "BASS",
+      "GUITAR",
+      "GUITAR",
+      "SYNTH"
+    ],
+    "micro_genres": [
+      {
+        "id": 0,
+        "name": "Indie Rock",
+        "description": "Featuring dynamic guitar riffs and powerful drum beats. From slow rock ballads to high-energy anthems, these tracks blend classic and modern styles, capturing the full spectrum of rock 'n' roll for every mood and moment.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_rock.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "GUITAR",
+          "STRINGS",
+          "VOCALS",
+          "PERCUSSION",
+          "BRASS WOODWIND",
+          "FX"
+        ],
+        "bpm": {
+          "low": 125,
+          "high": 145
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "PERCUSSION",
+          "BASS",
+          "GUITAR",
+          "GUITAR",
+          "SYNTH"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Pop Rock",
+        "description": "Featuring dynamic guitar riffs and powerful drum beats. From slow rock ballads to high-energy anthems, these tracks blend classic and modern styles, capturing the full spectrum of rock 'n' roll for every mood and moment.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_rock.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "GUITAR",
+          "STRINGS",
+          "VOCALS",
+          "PERCUSSION",
+          "BRASS WOODWIND",
+          "FX"
+        ],
+        "bpm": {
+          "low": 115,
+          "high": 135
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "PERCUSSION",
+          "BASS",
+          "GUITAR",
+          "SYNTH"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Metal",
+        "description": "Featuring dynamic guitar riffs and powerful drum beats. From slow rock ballads to high-energy anthems, these tracks blend classic and modern styles, capturing the full spectrum of rock 'n' roll for every mood and moment.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_rock.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "GUITAR",
+          "STRINGS",
+          "VOCALS",
+          "PERCUSSION",
+          "BRASS WOODWIND",
+          "FX"
+        ],
+        "bpm": {
+          "low": 115,
+          "high": 135
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "STRINGS",
+          "GUITAR",
+          "GUITAR",
+          "SYNTH"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Slow Rock",
+        "description": "Featuring dynamic guitar riffs and powerful drum beats. From slow rock ballads to high-energy anthems, these tracks blend classic and modern styles, capturing the full spectrum of rock 'n' roll for every mood and moment.",
+        "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_rock.png",
+        "instruments": [
+          "DRUMS",
+          "BASS",
+          "KEYS",
+          "SYNTH",
+          "GUITAR",
+          "STRINGS",
+          "VOCALS",
+          "PERCUSSION",
+          "BRASS WOODWIND",
+          "FX"
+        ],
+        "bpm": {
+          "low": 75,
+          "high": 100
+        },
+        "suggested_instruments": [
+          "DRUMS",
+          "BASS",
+          "GUITAR",
+          "KEYS"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Zen",
+    "description": "AI-generated Zen tracks featuring calming melodies, soothing harmonies, and tranquil rhythms. These tracks blend ambient sounds and gentle instrumentation, creating a serene atmosphere perfect for meditation, relaxation, and peaceful reflection. Experience the essence of Zen.",
+    "image_url": "https://dzyxwyf2uxaiq.cloudfront.net/genres/md_g_zen.png",
+    "instruments": [
+      "SAMPLES",
+      "GUITAR",
+      "STRINGS",
+      "SYNTH",
+      "PERCUSSION"
+    ],
+    "bpm": {
+      "low": 60,
+      "high": 70
+    },
+    "suggested_instruments": [
+      "SAMPLES",
+      "STRINGS",
+      "SYNTH",
+      "PERCUSSION",
+      "PERCUSSION"
+    ],
+    "micro_genres": []
+  }
+]

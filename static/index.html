@@ -1,0 +1,117 @@
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><link rel="icon" href="data:">
+<title>Instrumental Music Generator by Loudly API</title></head><body>
+<h1>Instrumental Music Generator by Loudly API</h1>
+
+<select id=selgenre></select><select id=selgenresub></select><br>
+BPM <input id=inbpm><span id=spanbpm></span><br>
+<button id=btngen>generate</button>
+<br>
+<button id=btnplay disabled>play</button>
+<button id=btndownload disabled>download</button><br>
+
+<hr>
+<a href=https://github.com/code4fukui/loudly-api/>src on GitHub</a><br>
+
+
+<script type="module">
+import { downloadFile } from "https://js.sabae.cc/downloadFile.js";
+
+const getGenres = async () => {
+  const res = await (await fetch("./api/fetchGenres")).json();
+  return res;
+};
+const generateMusic = async (opt) => {
+  const fetchopt = {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify(opt),
+  };
+  const res = await (await fetch("./api/fetchGenerateMusic", fetchopt)).json();
+  //const res = await (await fetch("./api/fetchGenerateMusic", fetchopt)).bytes();
+  return res;
+};
+
+const genres = await getGenres();
+console.log(genres);
+
+for (const genre of genres) {
+  const opt = document.createElement("option");
+  opt.textContent = genre.name;
+  selgenre.appendChild(opt);
+}
+selgenre.oninput = () => {
+  selgenresub.innerHTML = "";
+  const genre = genres.find(i => i.name == selgenre.value);
+  spanbpm.textContent = genre.bpm.low + " - " + genre.bpm.high;
+
+  const genre2 = genre.micro_genres;
+  if (genre2) {
+    const opt = document.createElement("option");
+    opt.textContent = "";
+    selgenresub.appendChild(opt);
+    for (const genre of genre2) {
+      const opt = document.createElement("option");
+      opt.textContent = genre.name;
+      selgenresub.appendChild(opt);
+    }
+  }
+};
+
+const getGenre = () => {
+  const parent = genres.find(i => i.name == selgenre.value);
+  const ch = selgenresub.value;
+  if (!ch) return parent;
+  const genre = parent.micro_genres.find(i => i.name == selgenresub.value);
+  return genre;
+};
+
+selgenre.oninput();
+selgenresub.oninput = () => {
+  const genre = getGenre();
+  spanbpm.textContent = genre.bpm.low + " - " + genre.bpm.high;
+};
+
+const getBPM = (genre) => {
+  if (inbpm.value) {
+    const n = parseFloat(inbpm.value);
+    if (n < genre.bpm.low) return genre.bpm.low;
+    if (n > genre.bpm.high) return genre.bpm.high;
+    return n;
+  }
+  return (genre.bpm.low + genre.bpm.high) / 2;
+};
+
+btngen.onclick = async () => {
+  btngen.disabled = true;
+  const genre = getGenre();
+  console.log(genre);
+  const bpm = getBPM(genre);
+  console.log(bpm);
+  const res = await generateMusic({ genre: genre.name, bpm });
+  console.log(res);
+  btnplay.disabled = false;
+  const audio = new Audio();
+  audio.src = res.music_file_path;
+  btnplay.onclick = () => {
+    if (audio.paused) {
+      audio.play();
+    } else {
+      audio.pause();
+      audio.currentTime = 0;
+    }
+  };
+  btndownload.disabled = false;
+  btndownload.onclick = () => {
+    const a = document.createElement("a");
+    a.href = res.music_file_path;
+    //a.download = genre.name + ".mp3";
+    a.setAttribute("download", genre.name + ".mp3");
+    a.click();
+    //downloadFile(genre.name + ".mp3", )
+  };
+  btngen.disabled = false;
+};
+
+</script>
